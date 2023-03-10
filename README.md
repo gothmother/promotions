@@ -65,7 +65,7 @@ Path                    Method          Description
 /promotions/123         GET             Retrieves the promotion with ID = 123
 /promotions/123         PUT             Updates the promotion with ID = 123
 /promotions/123         DELETE          Deletes the promotion with ID = 123
-/promotions             GET             List all the promotions available in the database!
+/promotions             GET             List all the promotions available in the database!!
 ```
 
 ## License
